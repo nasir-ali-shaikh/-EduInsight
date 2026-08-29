@@ -1,0 +1,101 @@
+StudentID,Name,Age,Gender,Department,Semester,City,Attendance,MidtermMarks,FinalMarks,AssignmentMarks,CGPA,PerformanceStatus
+STU001,Ali Raza,24,Male,Information Technology,4,Larkana,83.0,46.9,85.7,75.8,2.89,Good
+STU002,Ahmed Khan,21,Female,Data Science,8,Larkana,78.0,77.3,38.7,83.3,3.88,Needs Improvement
+STU003,Ayesha Malik,18,Female,Software Engineering,4,Karachi,76.0,35.5,36.5,71.5,2.8,Regular
+STU004,Fatima Noor,21,Female,Software Engineering,7,Sukkur,57.0,90.9,79.2,67.0,2.03,At Risk
+STU005,Hamza Ali,19,Female,Information Technology,1,Karachi,80.0,41.3,79.5,66.4,2.24,Regular
+STU006,Hina Shah,23,Male,Information Technology,1,,90.0,46.8,84.1,65.5,2.42,Excellent
+STU007,Bilal Ahmed,19,Male,Data Science,4,Khairpur,88.0,60.7,95.2,83.6,2.65,Excellent
+STU008,Sara Khan,23,Male,Computer Science,8,Larkana,75.0,60.3,52.6,89.7,2.71,Regular
+STU009,Usman Tariq,18,Male,Data Science,1,Karachi,61.0,62.5,60.7,57.6,2.03,Regular
+STU010,Zainab Ali,20,Male,Data Science,1,Larkana,59.0,95.2,77.3,94.9,3.7,Needs Improvement
+STU011,Abdullah Khan,20,Male,Computer Science,4,Sukkur,94.0,52.9,71.5,63.0,3.94,Good
+STU012,Maryam Noor,24,Male,Information Technology,7,Khairpur,68.0,67.1,69.0,65.7,2.05,At Risk
+STU013,Hassan Raza,21,Female,Computer Science,5,Karachi,86.0,80.2,44.1,76.3,,At Risk
+STU014,Iqra Ahmed,20,Female,Information Technology,6,Sukkur,82.0,95.4,87.5,78.0,3.74,Excellent
+STU015,Saad Ali,24,Male,Information Technology,4,Karachi,79.0,55.7,42.2,53.7,2.85,At Risk
+STU016,Sana Malik,18,Female,Computer Science,6,Khairpur,91.0,80.0,52.5,54.6,2.34,Regular
+STU017,Talha Khan,19,Male,Computer Science,4,Sukkur,66.0,51.4,67.3,58.1,2.57,At Risk
+STU018,Maham Shah,19,Female,Software Engineering,4,Hyderabad,77.0,53.1,94.0,54.4,2.29,Excellent
+STU019,Danish Raza,24,Male,Data Science,3,Khairpur,71.0,82.3,58.9,,3.27,Regular
+STU020,Anaya Noor,18,Male,Information Technology,4,Karachi,60.0,80.2,90.8,59.6,2.44,Needs Improvement
+STU021,Ali Raza,21,Male,Data Science,8,Khairpur,61.0,46.3,79.9,63.2,3.87,At Risk
+STU022,Ahmed Khan,18,Female,Data Science,2,Khairpur,77.0,70.2,80.2,53.7,2.35,Regular
+STU023,Ayesha Malik,19,Female,Data Science,1,Karachi,66.0,71.3,92.4,51.3,2.56,Regular
+STU024,Fatima Noor,21,Male,Data Science,8,Khairpur,87.0,76.7,40.5,49.7,3.8,Needs Improvement
+STU025,Hamza Ali,20,Male,Data Science,1,Khairpur,83.0,53.5,54.8,69.1,2.9,Regular
+STU026,Hina Shah,21,Female,Computer Science,1,Hyderabad,68.0,56.2,83.5,79.0,3.7,At Risk
+STU027,Bilal Ahmed,20,Female,Information Technology,3,Karachi,76.0,52.2,50.9,98.4,2.79,Excellent
+STU028,Sara Khan,19,Female,Information Technology,5,Khairpur,,76.9,78.5,91.9,2.46,Good
+STU029,Usman Tariq,25,Male,Data Science,1,Larkana,98.0,96.1,97.0,94.9,2.74,Regular
+STU030,Zainab Ali,18,Male,Data Science,6,Karachi,85.0,97.6,90.4,57.7,2.77,Good
+STU031,Abdullah Khan,25,Female,Information Technology,2,Sukkur,79.0,60.7,89.9,95.8,2.14,Excellent
+STU032,Maryam Noor,24,Male,Software Engineering,3,Sukkur,96.0,92.0,83.1,81.8,3.4,Good
+STU033,Hassan Raza,20,Female,Data Science,2,Hyderabad,79.0,74.7,40.3,40.3,3.26,At Risk
+STU034,Iqra Ahmed,20,Female,Information Technology,7,Larkana,69.0,59.4,41.1,74.7,2.07,At Risk
+STU035,Saad Ali,23,Male,Data Science,2,Larkana,76.0,51.3,37.5,58.2,3.07,At Risk
+STU036,Sana Malik,21,Male,Information Technology,4,Hyderabad,98.0,75.5,40.5,43.1,3.06,Regular
+STU037,Talha Khan,25,Female,Computer Science,5,Sukkur,96.0,56.0,86.7,56.2,2.88,Good
+STU038,Maham Shah,22,Female,Data Science,6,Khairpur,77.0,62.8,79.8,43.5,3.83,Good
+STU039,Danish Raza,25,Male,Data Science,5,Sukkur,55.0,97.1,83.0,73.3,3.22,Regular
+STU040,Anaya Noor,25,Female,Software Engineering,3,Hyderabad,91.0,42.8,57.2,45.5,2.19,Excellent
+STU041,Ali Raza,22,Male,Information Technology,4,Sukkur,70.0,41.4,67.0,68.4,2.35,Needs Improvement
+STU042,Ahmed Khan,19,Female,Computer Science,6,Larkana,59.0,92.6,52.0,40.9,3.87,At Risk
+STU043,Ayesha Malik,21,Male,Data Science,8,Khairpur,78.0,96.4,96.4,92.0,3.27,Excellent
+STU044,Fatima Noor,18,Male,Data Science,5,Sukkur,97.0,96.2,,97.7,3.81,Regular
+STU045,Hamza Ali,22,Female,Information Technology,3,Khairpur,89.0,56.9,77.6,63.1,3.36,Excellent
+STU046,Hina Shah,24,Male,Computer Science,4,Karachi,99.0,95.9,37.5,65.1,3.94,Needs Improvement
+STU047,Bilal Ahmed,18,Female,Computer Science,3,Larkana,90.0,59.2,85.5,60.4,3.86,Regular
+STU048,Sara Khan,24,Male,Information Technology,1,Karachi,89.0,41.7,93.7,70.3,3.65,Excellent
+STU049,Usman Tariq,18,Female,Data Science,4,Karachi,66.0,97.3,90.1,61.3,3.91,Regular
+STU050,Zainab Ali,19,Male,Data Science,7,Khairpur,70.0,64.1,54.1,59.7,3.35,At Risk
+STU051,Abdullah Khan,24,Male,Information Technology,5,Sukkur,96.0,98.3,99.7,43.4,3.47,Regular
+STU052,Maryam Noor,24,Female,Software Engineering,4,Khairpur,63.0,84.5,75.2,46.1,2.17,At Risk
+STU053,Hassan Raza,19,Female,Data Science,3,Khairpur,56.0,40.3,40.5,99.2,2.75,At Risk
+STU054,Iqra Ahmed,24,Male,Information Technology,7,Sukkur,79.0,73.5,57.8,82.5,2.96,Excellent
+STU055,Saad Ali,19,Male,Computer Science,3,Khairpur,93.0,63.2,51.5,64.3,3.14,Regular
+STU056,Sana Malik,20,Male,Software Engineering,5,Sukkur,82.0,97.5,59.4,57.1,3.74,Excellent
+STU057,Talha Khan,21,Female,Information Technology,5,Karachi,86.0,71.1,56.0,42.6,3.85,Regular
+STU058,Maham Shah,21,Female,Information Technology,1,Khairpur,72.0,45.8,49.1,57.7,3.99,Needs Improvement
+STU059,Danish Raza,20,Female,Data Science,4,Sukkur,64.0,96.8,92.9,67.3,3.24,Needs Improvement
+STU060,Anaya Noor,25,Male,Computer Science,2,Larkana,82.0,40.1,98.3,99.2,3.4,Regular
+STU061,Ali Raza,21,Female,Computer Science,5,Khairpur,82.0,52.6,43.7,44.6,3.88,Regular
+STU062,Ahmed Khan,19,Female,Data Science,2,Khairpur,84.0,91.3,37.9,41.6,2.75,At Risk
+STU063,Ayesha Malik,20,Male,Information Technology,5,Khairpur,80.0,59.8,98.0,90.5,3.68,Excellent
+STU064,Fatima Noor,22,Male,Computer Science,8,Larkana,60.0,80.0,69.7,85.0,3.83,Regular
+STU065,Hamza Ali,19,Female,Software Engineering,2,Khairpur,73.0,51.1,64.3,47.7,3.91,At Risk
+STU066,Hina Shah,18,Female,Information Technology,8,Karachi,86.0,38.0,52.5,41.3,3.0,Excellent
+STU067,Bilal Ahmed,19,Male,Information Technology,4,Larkana,55.0,70.9,71.5,92.6,2.81,Regular
+STU068,Sara Khan,22,Female,Software Engineering,6,Karachi,56.0,87.3,93.7,77.0,3.96,Needs Improvement
+STU069,Usman Tariq,20,Female,Information Technology,7,,88.0,57.6,68.4,87.0,2.79,Good
+STU070,Zainab Ali,22,Female,Software Engineering,5,Larkana,58.0,64.9,89.7,86.1,2.13,At Risk
+STU071,Abdullah Khan,19,Male,Software Engineering,5,Hyderabad,97.0,72.7,57.2,72.2,2.92,Good
+STU072,Maryam Noor,25,Male,Information Technology,4,Larkana,79.0,93.3,65.8,80.1,2.34,Excellent
+STU073,Hassan Raza,22,Female,Software Engineering,2,Khairpur,82.0,57.6,37.1,72.9,3.07,Needs Improvement
+STU074,Iqra Ahmed,23,Male,Information Technology,2,Larkana,99.0,55.9,41.0,68.9,3.38,Needs Improvement
+STU075,Saad Ali,18,Female,Software Engineering,2,Sukkur,90.0,,83.6,51.1,2.42,Good
+STU076,Sana Malik,21,Male,Information Technology,7,Karachi,68.0,65.1,83.6,42.2,2.5,Regular
+STU077,Talha Khan,24,Male,Data Science,4,Sukkur,99.0,91.4,58.0,63.8,2.21,Good
+STU078,Maham Shah,24,Female,Software Engineering,1,Karachi,71.0,48.7,56.3,47.2,3.78,At Risk
+STU079,Danish Raza,18,Female,Information Technology,5,Sukkur,72.0,40.6,69.9,75.2,3.49,At Risk
+STU080,Anaya Noor,18,Male,Computer Science,5,Khairpur,60.0,93.5,74.5,54.7,3.0,Needs Improvement
+STU081,Ali Raza,22,Female,Information Technology,6,Khairpur,75.0,44.9,51.0,49.6,2.37,Excellent
+STU082,Ahmed Khan,24,Female,Information Technology,3,Khairpur,85.0,61.7,98.9,46.7,2.8,Good
+STU083,Ayesha Malik,23,Male,Data Science,8,Larkana,92.0,78.5,95.4,73.4,3.14,Good
+STU084,Fatima Noor,23,Female,Data Science,2,Larkana,58.0,62.7,68.0,54.5,2.23,Needs Improvement
+STU085,Hamza Ali,23,Male,Software Engineering,3,Hyderabad,90.0,55.8,73.6,62.2,2.91,Regular
+STU086,Hina Shah,19,Male,Data Science,5,Karachi,94.0,87.6,51.6,80.9,3.52,Good
+STU087,Bilal Ahmed,23,Female,Data Science,7,Karachi,59.0,89.0,97.7,47.5,3.46,At Risk
+STU088,Sara Khan,20,Female,Data Science,1,Karachi,94.0,81.9,38.1,86.9,3.66,At Risk
+STU089,Usman Tariq,22,Male,Software Engineering,5,Karachi,59.0,50.3,76.2,94.5,2.63,Needs Improvement
+STU090,Zainab Ali,22,Female,Software Engineering,6,Larkana,87.0,83.6,67.7,53.9,3.8,Good
+STU091,Abdullah Khan,25,Male,Computer Science,8,Khairpur,93.0,42.6,96.1,77.7,2.67,Good
+STU092,Maryam Noor,21,Male,Computer Science,6,Hyderabad,93.0,72.3,99.9,85.1,,Good
+STU093,Hassan Raza,23,Female,Computer Science,2,Hyderabad,64.0,67.1,84.1,46.2,3.07,Regular
+STU094,Iqra Ahmed,25,Male,Information Technology,7,Karachi,83.0,70.1,66.6,64.5,3.54,Good
+STU095,Saad Ali,21,Female,Data Science,4,Sukkur,80.0,51.4,57.5,50.9,3.82,Excellent
+STU096,Sana Malik,23,Female,Data Science,3,Hyderabad,66.0,94.3,44.0,46.0,2.51,Regular
+STU097,Talha Khan,25,Male,Software Engineering,4,Karachi,59.0,95.0,81.0,49.2,3.15,Needs Improvement
+STU098,Maham Shah,22,Female,Data Science,6,Khairpur,94.0,89.6,94.2,47.4,2.47,Excellent
+STU099,Danish Raza,18,Male,Software Engineering,7,Khairpur,94.0,74.5,59.7,84.7,2.41,Regular
+STU100,Anaya Noor,20,Male,Data Science,7,Karachi,79.0,91.1,95.0,67.9,2.96,Good
